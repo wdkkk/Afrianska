@@ -44,6 +44,7 @@
   .footer__row {
     display: block;
   }
+  .footer__row {width: 100%;}
   .text_row .title,
   .text_row .subtitle {
     width: 100%;
