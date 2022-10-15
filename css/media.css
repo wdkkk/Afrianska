@@ -95,6 +95,8 @@
 }
 
 @media (max-width: 550px) {
+  .footer__row {width: 100%;}
+  .footer__link-button {text-align: center;}
   .footer__row,
   .footer__text,
   .footer__title,
